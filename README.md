@@ -1,5 +1,5 @@
 # chatVisualisation
-Python code that plots the whats app backup (sent by email) in a polar manner.
+Python code used to plot the whats app backup (sent by email) in a polar manner.
 
 Pre-requisites:
 - numpy
