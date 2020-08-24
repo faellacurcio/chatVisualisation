@@ -6,10 +6,10 @@ Pre-requisites:
 - matplotlib
 
 Usage:
-- Send the whats app conversation via email
-- Download the .txt file to your computer
-- Edit the file path variable accordingly
-- Run the code.
+- Export WhatsApp messages
+- Place the .txt files in the main folder
+- Run the code. (use param 'circle' if you want radial plot)
 
-Todo:
-# Set alpha according to the mensage density inside the delta time
+Output:
+![Radial Plot](https://ibb.co/VBXP3PW)
+![Linear Plot](https://ibb.co/DG24Xv6)
