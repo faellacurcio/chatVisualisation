@@ -11,5 +11,5 @@ Usage:
 - Run the code. (use param 'circle' if you want radial plot)
 
 Output:
-![Radial Plot](https://ibb.co/VBXP3PW)
-![Linear Plot](https://ibb.co/DG24Xv6)
+![Radial Plot](/circle.png)
+![Linear Plot](/strip.png)
